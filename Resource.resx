@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Birth_Date" xml:space="preserve">
+    <value>10/07/2008</value>
+  </data>
+  <data name="CACCA_Add_FN" xml:space="preserve">
+    <value>Poly Margarita</value>
+  </data>
+  <data name="CACCA_PI_FN" xml:space="preserve">
+    <value>Poly</value>
+  </data>
+  <data name="CACCA_PI_LN" xml:space="preserve">
+    <value>Loli</value>
+  </data>
+  <data name="CACDW_Add_LN" xml:space="preserve">
+    <value>Danilo Caramelito</value>
+  </data>
+  <data name="CACDW_PI_FN" xml:space="preserve">
+    <value>Pinky</value>
+  </data>
+  <data name="CACDW_PI_LN" xml:space="preserve">
+    <value>Danilo</value>
+  </data>
+  <data name="CDAC_Add_LN" xml:space="preserve">
+    <value>Bebe de Mami</value>
+  </data>
+  <data name="CDAC_PI_FN" xml:space="preserve">
+    <value>Papacho</value>
+  </data>
+  <data name="CDAC_PI_LN" xml:space="preserve">
+    <value>Bebe</value>
+  </data>
+  <data name="Consumer_Email" xml:space="preserve">
+    <value>tmigliorisi@totalperform.com</value>
+  </data>
+  <data name="DTC_Add_LN" xml:space="preserve">
+    <value>Toty Migliorisi</value>
+  </data>
+  <data name="DTC_PI_FN" xml:space="preserve">
+    <value>Thor</value>
+  </data>
+  <data name="DTC_PI_LN" xml:space="preserve">
+    <value>Toty</value>
+  </data>
+  <data name="FilePath" xml:space="preserve">
+    <value>C:\Users\Tery\Desktop\RegressionTestingAutomation.xlsx</value>
+    <comment>Testing data file</comment>
+  </data>
+  <data name="PA_Location" xml:space="preserve">
+    <value>C:\Users\Tery\Documents\Totalperformance\ePolicy\pdfs\PrivateConfidentialDocument.pdf</value>
+  </data>
+  <data name="PDFEsv_Location" xml:space="preserve">
+    <value>C:\Users\Tery\Documents\Totalperformance\ePolicy\pdfs\1iPipelineAgentInstructions.pdf</value>
+  </data>
+  <data name="PDFEsv_Template" xml:space="preserve">
+    <value>iPipeline Sample Agent Instructions</value>
+  </data>
+  <data name="PDF_LocationLincoln" xml:space="preserve">
+    <value>C:\Users\Tery\Documents\Totalperformance\ePolicy\pdfs\LincolnMoneyGuard_Sample1.pdf</value>
+  </data>
+  <data name="PDF_LocationStd" xml:space="preserve">
+    <value>C:\Users\Tery\Documents\Totalperformance\ePolicy\pdfs\Std Pdf\agentdocs2013.pdf</value>
+  </data>
+  <data name="PDF_LocationStdNY" xml:space="preserve">
+    <value>C:\Users\Tery\Documents\Totalperformance\ePolicy\pdfs\Std Pdf\agentdocs2013.pdf</value>
+  </data>
+  <data name="PDF_LocationTest" xml:space="preserve">
+    <value>C:\Users\Tery\Documents\Totalperformance\ePolicy\pdfs\1iPipeline Sample Policy.pdf</value>
+    <comment>C:\Users\Tery\Documents\Totalperformance\ePolicy\pdfs\1iPipelineSamplePolicy.PDF</comment>
+  </data>
+  <data name="PDF_TemplateLincoln" xml:space="preserve">
+    <value>MoneyGuard</value>
+  </data>
+  <data name="PDF_TemplateStd" xml:space="preserve">
+    <value>Agent Documents</value>
+  </data>
+  <data name="PDF_TemplateStdNY" xml:space="preserve">
+    <value>Agent Documents</value>
+  </data>
+  <data name="PDF_TemplateTest" xml:space="preserve">
+    <value>iPipeline Sample Policy Template</value>
+    <comment>iPipeline Sample Policy Template</comment>
+  </data>
+  <data name="PI_AddressLine1" xml:space="preserve">
+    <value>145 Brookeivey Lane</value>
+  </data>
+  <data name="PI_City" xml:space="preserve">
+    <value>Alpharetta</value>
+  </data>
+  <data name="PI_IDCheck_FN" xml:space="preserve">
+    <value>Amit</value>
+  </data>
+  <data name="PI_IDCheck_LN" xml:space="preserve">
+    <value>Patel</value>
+  </data>
+  <data name="PI_State" xml:space="preserve">
+    <value>GA</value>
+  </data>
+  <data name="PI_Zip" xml:space="preserve">
+    <value>30004</value>
+  </data>
+  <data name="Prod_Url" xml:space="preserve">
+    <value>https://policyexpartnerportal.ipipeline.com</value>
+  </data>
+  <data name="QA2_Url" xml:space="preserve">
+    <value>http://policyexpartnerportal-qa2.ipipenet.com</value>
+  </data>
+  <data name="QA_TestCarrier_CA_Agent" xml:space="preserve">
+    <value>PolicyEXUser_A_5</value>
+  </data>
+  <data name="QA_TestCarrier_CCM" xml:space="preserve">
+    <value>PolicyEXUser_CCM_3</value>
+  </data>
+  <data name="QA_TestCarrier_CCMA" xml:space="preserve">
+    <value>PolicyEXUser_CCMA_5</value>
+  </data>
+  <data name="QA_TestCarrier_CCM_Transfer" xml:space="preserve">
+    <value>PolicyEXUser_CCM_5</value>
+  </data>
+  <data name="QA_TestCarrier_CD_Agent" xml:space="preserve">
+    <value>PolicyEXUser_A_4</value>
+  </data>
+  <data name="QA_TestCarrier_CD_Agent_Search_LN" xml:space="preserve">
+    <value>a_4</value>
+  </data>
+  <data name="QA_TestCarrier_CD_SubGA_Agent" xml:space="preserve">
+    <value>tmigliorisi_IA3</value>
+  </data>
+  <data name="QA_TestCarrier_DCM" xml:space="preserve">
+    <value>PolicyEXUser_DCM_4</value>
+  </data>
+  <data name="QA_TestCarrier_DCMA" xml:space="preserve">
+    <value>PolicyEXUser_DCMA_4</value>
+  </data>
+  <data name="QA_TestCarrier_DCM_Transfer" xml:space="preserve">
+    <value>PolicyEXUser_DCM_5</value>
+  </data>
+  <data name="QA_TestCarrier_DW_Agent" xml:space="preserve">
+    <value>PolicyEXUser_A_1</value>
+  </data>
+  <data name="QA_Trans_CCM" xml:space="preserve">
+    <value>tmigliorisi_CCM4</value>
+  </data>
+  <data name="QA_Url" xml:space="preserve">
+    <value>https://policyexpartnerportal-qa.ipipenet.com</value>
+  </data>
+  <data name="SSN" xml:space="preserve">
+    <value>1234</value>
+  </data>
+  <data name="SubGA_Agent_Search_LN" xml:space="preserve">
+    <value>migliorisi</value>
+  </data>
+  <data name="Template_Add_Role" xml:space="preserve">
+    <value>Co-Owner</value>
+  </data>
+  <data name="UAT_CA_Agent" xml:space="preserve">
+    <value>tmigliorisi_CA3</value>
+  </data>
+  <data name="UAT_CCM" xml:space="preserve">
+    <value>tccm_21581</value>
+  </data>
+  <data name="UAT_CCMA" xml:space="preserve">
+    <value>tmigliorisi_CCMA3</value>
+  </data>
+  <data name="UAT_CCM_Transfer" xml:space="preserve">
+    <value>tccm_11581</value>
+  </data>
+  <data name="UAT_CD_Agent" xml:space="preserve">
+    <value>tagent_cdac1581</value>
+  </data>
+  <data name="UAT_CD_Agent_Search_LN" xml:space="preserve">
+    <value>cdac</value>
+  </data>
+  <data name="UAT_CD_SubGA_Agent" xml:space="preserve">
+    <value>N/A</value>
+  </data>
+  <data name="UAT_DCM" xml:space="preserve">
+    <value>tdcm_21581</value>
+  </data>
+  <data name="UAT_DCMA" xml:space="preserve">
+    <value>tdcma_21581</value>
+  </data>
+  <data name="UAT_DCM_Transfer" xml:space="preserve">
+    <value>tdcm_11581</value>
+  </data>
+  <data name="UAT_DW_Agent" xml:space="preserve">
+    <value>tagent_dw1581</value>
+  </data>
+  <data name="UAT_Url" xml:space="preserve">
+    <value>https://policyexpartnerportal-uat.ipipeline.com</value>
+  </data>
+  <data name="User_Pwd" xml:space="preserve">
+    <value>12345678</value>
+  </data>
+</root>

@@ -1,0 +1,13 @@
+C:\Users\Tery\documents\visual studio 2013\Projects\DocFast\DocFast\bin\Debug\DocFast.dll
+C:\Users\Tery\documents\visual studio 2013\Projects\DocFast\DocFast\bin\Debug\DocFast.pdb
+C:\Users\Tery\documents\visual studio 2013\Projects\DocFast\DocFast\bin\Debug\nunit.framework.dll
+C:\Users\Tery\documents\visual studio 2013\Projects\DocFast\DocFast\bin\Debug\WebDriver.dll
+C:\Users\Tery\documents\visual studio 2013\Projects\DocFast\DocFast\bin\Debug\WebDriver.Support.dll
+C:\Users\Tery\documents\visual studio 2013\Projects\DocFast\DocFast\bin\Debug\nunit.framework.xml
+C:\Users\Tery\documents\visual studio 2013\Projects\DocFast\DocFast\bin\Debug\WebDriver.xml
+C:\Users\Tery\documents\visual studio 2013\Projects\DocFast\DocFast\bin\Debug\WebDriver.Support.xml
+C:\Users\Tery\documents\visual studio 2013\Projects\DocFast\DocFast\obj\Debug\DocFast.Resource.resources
+C:\Users\Tery\documents\visual studio 2013\Projects\DocFast\DocFast\obj\Debug\DocFast.csproj.GenerateResource.Cache
+C:\Users\Tery\documents\visual studio 2013\Projects\DocFast\DocFast\obj\Debug\DocFast.dll
+C:\Users\Tery\documents\visual studio 2013\Projects\DocFast\DocFast\obj\Debug\DocFast.pdb
+C:\Users\Tery\documents\visual studio 2013\Projects\DocFast\DocFast\obj\Debug\DocFast.csprojResolveAssemblyReference.cache
